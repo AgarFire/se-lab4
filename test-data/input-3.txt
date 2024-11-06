@@ -1,0 +1,5 @@
+GT4500,2,0,2,0
+TORPEDO,SINGLE # should return true
+TORPEDO,SINGLE # should return true
+TORPEDO,ALL # should return true
+TORPEDO,ALL # should return false if they alternated correctly
